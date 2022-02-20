@@ -2,6 +2,13 @@
 > let's brainstorm speaking topics and ideas together!
 
 # 5W2H
+* Why
+* When
+* Who
+* Where
+* What
+* How
+* How much
 
 # Guideline
 * 
