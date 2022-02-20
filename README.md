@@ -1,4 +1,4 @@
-# [中文](./README_zh_TW.md)
+# [中文版](./README_zh_TW.md)
 
 # speaking-topics-and-ideas 
 > let's brainstorm speaking topics and ideas together!
