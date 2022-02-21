@@ -1,5 +1,12 @@
 # speaking-topics-and-ideas
-> 一起來做一些議程主題跟想法的激盪吧！let's brainstorm speaking topics and ideas together!
+> 一起來做一些議程主題跟想法的激盪吧！
+
+# 背景
+* [我想要進步，但是公司沒人有興趣陪我 “練習” 怎麼辦](https://github.com/PureFuncInc/developer-career-faqs/issues/12)
+* [身為小朋友如何找到刻意練習的機會？](https://github.com/PureFuncInc/developer-career-faqs/issues/13)
+
+# 登愣！
+<img width="438" alt="CleanShot 2022-02-21 at 15 43 27@2x" src="https://user-images.githubusercontent.com/6296280/154910224-9ad85ff5-5fb3-456a-938a-d7ca869f0a5a.png">
 
 # 5W2H
 * What
