@@ -1,4 +1,4 @@
-# [Submit Idea](https://github.com/PureFuncInc/speaking-topics-and-ideas/issues)
+# [Submit Idea](https://github.com/PureFuncInc/speaking-topics-and-ideas/issues/new/choose)
 
 # [zh_TW](./README_zh_TW.md)
 
