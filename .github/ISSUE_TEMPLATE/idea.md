@@ -1,5 +1,5 @@
 ---
-name: idea
+name: submit idea
 about: issue template for idea
 title: "[Idea] XXX"
 labels: new
