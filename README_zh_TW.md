@@ -5,8 +5,15 @@
 * [我想要進步，但是公司沒人有興趣陪我 “練習” 怎麼辦](https://github.com/PureFuncInc/developer-career-faqs/issues/12)
 * [身為小朋友如何找到刻意練習的機會？](https://github.com/PureFuncInc/developer-career-faqs/issues/13)
 
-# 登愣！
+# 進步最快的方法！？登愣！
 <img width="438" alt="CleanShot 2022-02-21 at 15 43 27@2x" src="https://user-images.githubusercontent.com/6296280/154910224-9ad85ff5-5fb3-456a-938a-d7ca869f0a5a.png">
+
+# 這個活動，讓我們一起
+* 試著當一個好講者，分享學到的知識
+* 試著當一個好聽眾，交流知識與反饋
+
+# 只要你不尷尬，尷尬的就是別人 (誤
+* 
 
 # 5W2H
 * What
