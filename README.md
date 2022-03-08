@@ -1,8 +1,10 @@
 # [Submit Idea](https://github.com/PureFuncInc/speaking-topics-and-ideas/issues/new/choose)
 
-# [zh_TW](./README_zh_TW.md)
+# README.md zh_TW
+* [README.md](./README_zh_TW.md)
 
-# [en_US](./README_en_US.md)
+# README.md en_US
+* [en_US](./README_en_US.md)
 
 # Collaborators
 * [TWJUG]()
