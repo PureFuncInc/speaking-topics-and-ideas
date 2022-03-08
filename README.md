@@ -8,7 +8,7 @@
 * [README.md](./README_en_US.md)
 
 # Collaborators
-* [TWJUG]()
-* [TWKUG]()
-* [GDG Taiwan]()
-* [DevOps Taiwan]()
+* [TWJUG](https://www.facebook.com/groups/twjug/)
+* [TWKUG](https://taiwan-kotlin-user-group.github.io/)
+* [GDG Taiwan](https://gdg.community.dev/gdg-taipei/)
+* [DevOps Taiwan](https://devopstw.club/)
