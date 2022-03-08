@@ -4,7 +4,7 @@
 * [README.md](./README_zh_TW.md)
 
 # README.md en_US
-* [en_US](./README_en_US.md)
+* [README.md](./README_en_US.md)
 
 # Collaborators
 * [TWJUG]()
