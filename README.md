@@ -1,3 +1,6 @@
+# 水球軟體學院的技術吐司會做得更好，跟他們合併就好
+* https://discord.gg/PN2YE63HBP
+
 # [Submit Idea](https://github.com/PureFuncInc/speaking-topics-and-ideas/issues/new/choose)
 
 # zh_TW
